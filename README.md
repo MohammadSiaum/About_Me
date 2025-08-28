@@ -1,6 +1,6 @@
-## About Me ##
+## About Me
 
-# Full Stack Developer | MERN Stack Developer | React, Next,js & Node.js Developer
+### Full Stack Developer | MERN Stack Developer | React, Next,js & Node.js Developer
 
 Hello,
 I bring expertise in Full Stack Development, MERN Stack, and Custom Software development. I help businesses and startups turn their ideas into functional, high-performing digital solutions. With 3 years of hands-on experience, I've honed my skills in crafting robust, scalable, and efficient web applications.
