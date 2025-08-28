@@ -8,12 +8,12 @@ I have completed a B.S.C in **Computer Science & Engineering** from United Inter
 
 #### 💻 What I Do:
 
-1. Develop full-stack web applications with React (front-end) and Node.js + Express.js (back-end).
-2. Build secure REST API and integrate third-party services.
-3. Work with MongoDB, MySQL & PostgreSQL to design efficient and scalable databases.
-4. Create responsive UI using React, TailwindCSS, or Bootstrap.
-5. Implement  authentication & authorization (JWT, OAuth).
-6. Optimize applications for speed, SEO, and performance.
+:white_check_mark: Develop full-stack web applications with React (front-end) and Node.js + Express.js (back-end).
+:white_check_mark: Build secure REST API and integrate third-party services.
+:white_check_mark: Work with MongoDB, MySQL & PostgreSQL to design efficient and scalable databases.
+:white_check_mark: Create responsive UI using React, TailwindCSS, or Bootstrap.
+:white_check_mark: Implement  authentication & authorization (JWT, OAuth).
+:white_check_mark: Optimize applications for speed, SEO, and performance.
 
 **:loudspeaker: Why Work With Me?**
 
