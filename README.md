@@ -4,7 +4,7 @@
 
 Hello,
 I bring expertise in **Full Stack Development**, **MERN Stack**, and **Custom Software development**. I help businesses and startups turn their ideas into functional, high-performing digital solutions. With **3 years** of hands-on experience, I've honed my skills in crafting robust, scalable, and efficient web applications.
-I have completed a B.S.C in Computer Science & Engineering from United International University.
+I have completed a B.S.C in **Computer Science & Engineering** from United International University.
 
 #### 💻 What I Do:
 
@@ -15,19 +15,19 @@ I have completed a B.S.C in Computer Science & Engineering from United Internati
 5. Implement  authentication & authorization (JWT, OAuth).
 6. Optimize applications for speed, SEO, and performance.
 
-Why Work With Me?
+#### Why Work With Me?
 
 - I focus on writing clean, maintainable, and scalable code.
 - Excellent communication - I keep clients updated at every step.
 - On-time delivery and commitment to quality results.
 - Problem-solver mindset: I don’t just write code, I provide solutions.
 
-📌 Tech Stack & Tools:
+#### 📌 Tech Stack & Tools:
 
-Front-end: React, Next.js, Redux, TailwindCSS, Bootstrap
-Back-end: Node.js, Express.js, REST APIs, GraphQL
-Database: MongoDB (Mongoose), MySQL, PostgreSQL
-Other Tools: Git, Docker, Postman, Firebase & Supabase
+**Front-end**: React, Next.js, Redux, TailwindCSS, Bootstrap
+**Back-end**: Node.js, Express.js, REST APIs, GraphQL
+**Database**: MongoDB (Mongoose), MySQL, PostgreSQL
+**Other Tools**: Git, Docker, Postman, Firebase & Supabase
 
 Whether you need a new web application from scratch or improvements to your existing project, I can help you achieve your goals with the MERN stack. Let’s connect and bring your vision to life.
 
