@@ -36,7 +36,6 @@ Whether you need a new web application from scratch or improvements to your exis
 I provide my best to gain your trust and your satisfaction through my work.
 
 🚀 Let’s collaborate and build something amazing!
-
-[https://www.upwork.com/freelancers/~016e4ade586386f321?mp_source=share](Upwork)
+[![Upwork](https://www.upwork.com/freelancers/~016e4ade586386f321?mp_source=share)]
 
 Gmail GitHub LinkedIn Fiverr Upwork
