@@ -29,7 +29,7 @@ I have completed a B.S.C in **Computer Science & Engineering** from United Inter
 **Database**: MongoDB (Mongoose), MySQL, PostgreSQL\
 **Other Tools**: Git, Docker, Postman, Firebase & Supabase\
 
-**🛠️ Version Control & Tools: Git, GitHub, Bitbucket, Jira, Trello, Postman, VS Code**
+**🛠️ Version Control & Tools: Git, GitHub, Jira, Postman, VS Code**
 
 Whether you need a new web application from scratch or improvements to your existing project, I can help you achieve your goals with the MERN stack. Let’s connect and bring your vision to life.
 
