@@ -1,3 +1,5 @@
+##About Me##
+
 Hello,
 I bring expertise in Full Stack Development, MERN Stack, and Custom Software development. I help businesses and startups turn their ideas into functional, high-performing digital solutions. With 3 years of hands-on experience, I've honed my skills in crafting robust, scalable, and efficient web applications.
 I have completed a B.S.C in Computer Science & Engineering from United International University.
