@@ -24,10 +24,12 @@ I have completed a B.S.C in **Computer Science & Engineering** from United Inter
 
 #### 📌 Tech Stack & Tools:
 
-**Front-end**: React, Next.js, Redux, TailwindCSS, Bootstrap
-**Back-end**: Node.js, Express.js, REST APIs, GraphQL
-**Database**: MongoDB (Mongoose), MySQL, PostgreSQL
-**Other Tools**: Git, Docker, Postman, Firebase & Supabase
+**Front-end**: React, Next.js, Redux, TailwindCSS, Bootstrap\
+**Back-end**: Node.js, Express.js, REST APIs, GraphQL\
+**Database**: MongoDB (Mongoose), MySQL, PostgreSQL\
+**Other Tools**: Git, Docker, Postman, Firebase & Supabase\
+
+**🛠️ Version Control & Tools: Git, GitHub, Bitbucket, Jira, Trello, Postman, VS Code**
 
 Whether you need a new web application from scratch or improvements to your existing project, I can help you achieve your goals with the MERN stack. Let’s connect and bring your vision to life.
 
