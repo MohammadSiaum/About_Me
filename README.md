@@ -15,7 +15,7 @@ I have completed a B.S.C in **Computer Science & Engineering** from United Inter
 5. Implement  authentication & authorization (JWT, OAuth).
 6. Optimize applications for speed, SEO, and performance.
 
-####:loudspeaker: Why Work With Me?
+**:loudspeaker: Why Work With Me?**
 
 - I focus on writing clean, maintainable, and scalable code.
 - Excellent communication - I keep clients updated at every step.
