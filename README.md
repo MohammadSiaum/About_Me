@@ -34,3 +34,9 @@ I have completed a B.S.C in **Computer Science & Engineering** from United Inter
 Whether you need a new web application from scratch or improvements to your existing project, I can help you achieve your goals with the MERN stack. Let’s connect and bring your vision to life.
 
 I provide my best to gain your trust and your satisfaction through my work.
+
+🚀 Let’s collaborate and build something amazing!
+
+[https://www.upwork.com/freelancers/~016e4ade586386f321?mp_source=share](Upwork)
+
+Gmail GitHub LinkedIn Fiverr Upwork
