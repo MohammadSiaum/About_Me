@@ -13,7 +13,8 @@ I have completed a B.S.C in **Computer Science & Engineering** from United Inter
 :white_check_mark: Work with MongoDB, MySQL & PostgreSQL to design efficient and scalable databases.\
 :white_check_mark: Create responsive UI using React, TailwindCSS, or Bootstrap.\
 :white_check_mark: Implement  authentication & authorization (JWT, OAuth).\
-:white_check_mark: Optimize applications for speed, SEO, and performance.\
+:white_check_mark: Optimize applications for speed, SEO, and performance.
+
 
 **:loudspeaker: Why Work With Me?**
 
