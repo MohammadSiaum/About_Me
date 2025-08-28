@@ -3,10 +3,10 @@
 ### Full Stack Developer | MERN Stack Developer | React, Next,js & Node.js Developer
 
 Hello,
-I bring expertise in Full Stack Development, MERN Stack, and Custom Software development. I help businesses and startups turn their ideas into functional, high-performing digital solutions. With 3 years of hands-on experience, I've honed my skills in crafting robust, scalable, and efficient web applications.
+I bring expertise in **Full Stack Development**, **MERN Stack**, and **Custom Software development**. I help businesses and startups turn their ideas into functional, high-performing digital solutions. With **3 years** of hands-on experience, I've honed my skills in crafting robust, scalable, and efficient web applications.
 I have completed a B.S.C in Computer Science & Engineering from United International University.
 
-💻 What I Do:
+#### 💻 What I Do:
 
 1. Develop full-stack web applications with React (front-end) and Node.js + Express.js (back-end).
 2. Build secure REST API and integrate third-party services.
